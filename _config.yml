@@ -1,2 +1,3 @@
 name: DeAndre' Williams, Indiana Hoosier
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
